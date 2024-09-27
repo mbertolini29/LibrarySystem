@@ -1,0 +1,13 @@
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Repositories.deps.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Repositories.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Repositories.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.sourcelink.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\refint\LibrarySystem.Repositories.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\ref\LibrarySystem.Repositories.dll

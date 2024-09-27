@@ -1,0 +1,13 @@
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\bin\Debug\net8.0\LibrarySystem.Models.deps.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\bin\Debug\net8.0\LibrarySystem.Models.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\bin\Debug\net8.0\LibrarySystem.Models.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.sourcelink.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\refint\LibrarySystem.Models.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\LibrarySystem.Models.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Models\obj\Debug\net8.0\ref\LibrarySystem.Models.dll

@@ -316,6 +316,19 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "LibrarySystem.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.8"
+        },
+        "compile": {
+          "bin/placeholder/LibrarySystem.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibrarySystem.Models.dll": {}
+        }
       }
     }
   },
@@ -807,10 +820,16 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "LibrarySystem.Models/1.0.0": {
+      "type": "project",
+      "path": "../LibrarySystem.Models/LibrarySystem.Models.csproj",
+      "msbuildProject": "../LibrarySystem.Models/LibrarySystem.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "LibrarySystem.Models >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.8"
     ]
   },
@@ -846,7 +865,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Models\\LibrarySystem.Models.csproj": {
+              "projectPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Models\\LibrarySystem.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
