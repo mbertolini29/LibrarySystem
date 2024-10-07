@@ -11,3 +11,8 @@ C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySy
 C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\refint\LibrarySystem.Repositories.dll
 C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.pdb
 C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\ref\LibrarySystem.Repositories.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Models.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Models.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibraryS.9B95A4E6.Up2Date
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Repositories.runtimeconfig.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.genruntimeconfig.cache

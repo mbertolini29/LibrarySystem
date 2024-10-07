@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.repositories\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|solutionrelative:librarysystem.repositories\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.repositories\\migrations\\20241007163604_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|solutionrelative:librarysystem.repositories\\migrations\\20241007163604_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.repositories\\librarysystem.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|solutionrelative:librarysystem.repositories\\librarysystem.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\librarysystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\librarysystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.repositories\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|solutionrelative:librarysystem.repositories\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3FDAB94-C690-4642-9D0E-0750C1FDA00D}|LibrarySystem.Models\\LibrarySystem.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3FDAB94-C690-4642-9D0E-0750C1FDA00D}|LibrarySystem.Models\\LibrarySystem.Models.csproj|solutionrelative:librarysystem.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3FDAB94-C690-4642-9D0E-0750C1FDA00D}|LibrarySystem.Models\\LibrarySystem.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3FDAB94-C690-4642-9D0E-0750C1FDA00D}|LibrarySystem.Models\\LibrarySystem.Models.csproj|solutionrelative:librarysystem.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2C04E5-34AB-415C-8877-500607F76857}|LibrarySystem.Services\\LibrarySystem.Services.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.services\\librarysystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D2C04E5-34AB-415C-8877-500607F76857}|LibrarySystem.Services\\LibrarySystem.Services.csproj|solutionrelative:librarysystem.services\\librarysystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.repositories\\librarysystem.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|solutionrelative:librarysystem.repositories\\librarysystem.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Program.cs",
-              "RelativeDocumentMoniker": "LibrarySystem.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Program.cs",
-              "RelativeToolTip": "LibrarySystem.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20241007163604_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Migrations\\20241007163604_Initial.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Repositories\\Migrations\\20241007163604_Initial.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Migrations\\20241007163604_Initial.cs",
+              "RelativeToolTip": "LibrarySystem.Repositories\\Migrations\\20241007163604_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:55:34.434Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-07T16:49:10.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibrarySystem.Repositories",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
-              "RelativeDocumentMoniker": "LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
-              "RelativeToolTip": "LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LibrarySystem.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwB4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:43:33.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrarySystem.Services",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj",
+              "RelativeDocumentMoniker": "LibrarySystem.Services\\LibrarySystem.Services.csproj",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj",
+              "RelativeToolTip": "LibrarySystem.Services\\LibrarySystem.Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-27T15:12:48.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "LibrarySystem.Repositories\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "LibrarySystem.Repositories\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T15:13:57.891Z",
+              "WhenOpened": "2024-10-07T16:33:06.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Models\\Category.cs",
-              "RelativeDocumentMoniker": "LibrarySystem.Models\\Category.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Models\\Category.cs",
-              "RelativeToolTip": "LibrarySystem.Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "LibrarySystem.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj",
+              "RelativeDocumentMoniker": "LibrarySystem.Web\\LibrarySystem.Web.csproj",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj",
+              "RelativeToolTip": "LibrarySystem.Web\\LibrarySystem.Web.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T16:24:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Program.cs",
+              "RelativeToolTip": "LibrarySystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T15:05:15.815Z",
+              "WhenOpened": "2024-10-07T16:16:17.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "LibrarySystem.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\appsettings.json",
+              "RelativeToolTip": "LibrarySystem.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T16:04:41.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Models\\Book.cs",
               "RelativeDocumentMoniker": "LibrarySystem.Models\\Book.cs",
               "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Models\\Book.cs",
               "RelativeToolTip": "LibrarySystem.Models\\Book.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T14:57:44.771Z",
+              "WhenOpened": "2024-10-07T16:40:54.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibrarySystem.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
+              "RelativeDocumentMoniker": "LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
+              "RelativeToolTip": "LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T16:10:03.648Z",
               "EditorCaption": ""
             }
           ]

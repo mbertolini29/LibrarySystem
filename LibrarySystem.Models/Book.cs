@@ -14,7 +14,7 @@ namespace LibrarySystem.Models
         public required string Publisher { get; set; }
         public required DateTime PublicationDate { get; set; }
         public required string ISBN { get; set; } //se refiere al codigo de barra o numeros unicos de serie. //palabra clave tmb
-        public string CategoryId { get; set; }
+        public int CategoryId { get; set; }
 
         public Category Category { get; set; }
 

@@ -8,9 +8,11 @@ using LibrarySystem.Utilities.Seeding;
 using LibrarySystem.Repositories.UnitOfWorkPattern;
 
 var builder = WebApplication.CreateBuilder(args);
+
 var connectionString = builder.Configuration.GetConnectionString("LibrarySystemWebContextConnection") ?? throw new InvalidOperationException("Connection string 'LibrarySystemWebContextConnection' not found.");
 
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("Data Source=MAURIX\\SQLEXPRESS;Initial Catalog=LibrarySystemDb;User Id=sa;Password=departamento;TrustServerCertificate=True;"));
+//builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("LibrarySystemWebContextConnection"));
 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddDefaultTokenProviders().AddEntityFrameworkStores<ApplicationDbContext>(); //esto me hace ruido. no se si va "ApplicationDbContext --> ? "
 builder.Services.AddScoped<IDbInitializer, DbInitializer>();
