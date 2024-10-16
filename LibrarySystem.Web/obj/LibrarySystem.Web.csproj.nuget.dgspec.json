@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\librarysystem.web\\LibrarySystem.Web.csproj": {}
+    "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj": {}
   },
   "projects": {
     "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Models\\LibrarySystem.Models.csproj": {
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -162,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -247,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -312,18 +312,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\librarysystem.web\\LibrarySystem.Web.csproj": {
+    "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\librarysystem.web\\LibrarySystem.Web.csproj",
+        "projectUniqueName": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj",
         "projectName": "LibrarySystem.Web",
-        "projectPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\librarysystem.web\\LibrarySystem.Web.csproj",
+        "projectPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj",
         "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\librarysystem.web\\obj\\",
+        "outputPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -414,7 +414,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
