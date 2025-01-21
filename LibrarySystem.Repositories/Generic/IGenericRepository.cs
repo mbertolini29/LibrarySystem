@@ -19,7 +19,7 @@ namespace LibrarySystem.Repositories.Generic
 
         T GetById(object id);
 
-        T GetByIdAsync(Expression<Func<T, bool>> filter = null,
+        Task<T> GetByIdAsync(Expression<Func<T, bool>> filter = null,
             Func<IQueryable<T>, IIncludableQueryable<T, object>> include = null
             , bool disabledTracking = true);
 

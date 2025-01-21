@@ -268,3 +268,7 @@ C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySy
 C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Web\bin\Debug\net8.0\LibrarySystem.Utilities.pdb
 C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Web\bin\Debug\net8.0\LibrarySystem.ViewModels.pdb
 C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Web\bin\Debug\net8.0\LibrarySystem.Web.staticwebassets.endpoints.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Web\obj\Debug\net8.0\staticwebassets\msbuild.LibrarySystem.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\00 - Prototipos\LibrarySystem\LibrarySystem.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

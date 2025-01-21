@@ -113,7 +113,7 @@ namespace LibrarySystem.Repositories.Generic
             return dbSet.Find(id);
         }
 
-        public T GetByIdAsync(Expression<Func<T, bool>> filter = null,              Func<IQueryable<T>, IIncludableQueryable<T,
+        public async Task<T> GetByIdAsync(Expression<Func<T, bool>> filter = null,              Func<IQueryable<T>, IIncludableQueryable<T,
             object>> include = null, bool disabledTracking = true)
         {
             IQueryable<T> query = dbSet;
@@ -131,7 +131,7 @@ namespace LibrarySystem.Repositories.Generic
                 query = include(query);
             }
 
-            return query.FirstOrDefault();
+            return await query.FirstOrDefaultAsync();
         }
 
         public void Update(T entity)

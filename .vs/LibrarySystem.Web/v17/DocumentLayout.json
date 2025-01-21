@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\librarysystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\librarysystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8D2C04E5-34AB-415C-8877-500607F76857}|LibrarySystem.Services\\LibrarySystem.Services.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2C04E5-34AB-415C-8877-500607F76857}|LibrarySystem.Services\\LibrarySystem.Services.csproj|solutionrelative:librarysystem.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2C04E5-34AB-415C-8877-500607F76857}|LibrarySystem.Services\\LibrarySystem.Services.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2C04E5-34AB-415C-8877-500607F76857}|LibrarySystem.Services\\LibrarySystem.Services.csproj|solutionrelative:librarysystem.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.repositories\\generic\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|solutionrelative:librarysystem.repositories\\generic\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.repositories\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}|LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj|solutionrelative:librarysystem.repositories\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\00 - prototipos\\librarysystem\\librarysystem.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBE2E8C9-EC46-4054-B413-612B17DB0D27}|LibrarySystem.Web\\LibrarySystem.Web.csproj|solutionrelative:librarysystem.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Generic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Repositories\\Generic\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Generic\\GenericRepository.cs",
+              "RelativeToolTip": "LibrarySystem.Repositories\\Generic\\GenericRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:08:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Generic\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Repositories\\Generic\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\Generic\\IGenericRepository.cs",
+              "RelativeToolTip": "LibrarySystem.Repositories\\Generic\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:57:28.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T17:20:14.58Z",
+              "Title": "IbookService.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Services\\IbookService.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Services\\IbookService.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Services\\IbookService.cs",
+              "RelativeToolTip": "LibrarySystem.Services\\IbookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:23:28.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LibrarySystem.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj",
-              "RelativeDocumentMoniker": "LibrarySystem.Web\\LibrarySystem.Web.csproj",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\LibrarySystem.Web.csproj",
-              "RelativeToolTip": "LibrarySystem.Web\\LibrarySystem.Web.csproj",
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Services\\BookService.cs",
+              "RelativeToolTip": "LibrarySystem.Services\\BookService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:23:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibrarySystem.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibrarySystem.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T14:18:00.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-07T17:18:49.031Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-21T14:14:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibrarySystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T14:14:34.823Z",
               "EditorCaption": ""
             }
           ]
