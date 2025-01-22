@@ -11,7 +11,7 @@ namespace LibrarySystem.Repositories.Generic
 {
     public interface IGenericRepository<T> : IDisposable where T : class
     {
-        IEnumerable<T> GetAll(
+        Task<IEnumerable<T>> GetAll(
             Expression<Func<T, bool>> filter = null,
             Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
             Func<IQueryable<T>, IIncludableQueryable<T, object>> include = null

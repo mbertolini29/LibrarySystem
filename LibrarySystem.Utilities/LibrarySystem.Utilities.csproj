@@ -14,7 +14,6 @@
   <ItemGroup>
     <ProjectReference Include="..\LibrarySystem.Models\LibrarySystem.Models.csproj" />
     <ProjectReference Include="..\LibrarySystem.Repositories\LibrarySystem.Repositories.csproj" />
-    <ProjectReference Include="..\LibrarySystem.ViewModels\LibrarySystem.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

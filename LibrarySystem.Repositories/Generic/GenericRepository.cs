@@ -82,7 +82,9 @@ namespace LibrarySystem.Repositories.Generic
             dbSet.RemoveRange(entityList);
         }
 
-        public IEnumerable<T> GetAll(Expression<Func<T, bool>> filter = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, Func<IQueryable<T>, IIncludableQueryable<T, object>> include = null, bool disabledTracking = true)
+        public async Task<IEnumerable<T>> GetAll(Expression<Func<T, bool>> filter = null,            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, 
+                Func<IQueryable<T>, IIncludableQueryable<T, object>> include = null, 
+                bool disabledTracking = true)
         {
             IQueryable<T> query = dbSet;
             if(disabledTracking) //seguimiento desactivado.
@@ -100,11 +102,11 @@ namespace LibrarySystem.Repositories.Generic
 
             if(orderBy != null)
             {
-                return orderBy(query).ToList();
+                return await orderBy(query).ToListAsync();
             }
             else
             {
-                return query.ToList();
+                return await query.ToListAsync();
             }
         }
 
@@ -113,8 +115,8 @@ namespace LibrarySystem.Repositories.Generic
             return dbSet.Find(id);
         }
 
-        public async Task<T> GetByIdAsync(Expression<Func<T, bool>> filter = null,              Func<IQueryable<T>, IIncludableQueryable<T,
-            object>> include = null, bool disabledTracking = true)
+        public async Task<T> GetByIdAsync(Expression<Func<T, bool>> filter = null,                           Func<IQueryable<T>, IIncludableQueryable<T, object>> include = null,
+                        bool disabledTracking = true)
         {
             IQueryable<T> query = dbSet;
             if (disabledTracking)

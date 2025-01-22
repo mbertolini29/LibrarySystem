@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace LibrarySystem.Services
 {
-    public class BookService : IbookService
+    public class BookService : IBookService
     {
         private readonly IUnitOfWork _unitOfWork;
 
@@ -24,16 +24,16 @@ namespace LibrarySystem.Services
             _unitOfWork.Save();
         }
 
-        public void DeleteBook(int id)
+        public async Task DeleteBook(int id)
         {
             var book = _unitOfWork.GenericRepository<Book>().GetByIdAsync(filter: x => x.Id == id);
             _unitOfWork.GenericRepository<Book>().Delete(book);
             _unitOfWork.Save();
         }
 
-        public IEnumerable<Book> GetAllBooks()
+        public async Task<IEnumerable<Book>> GetAllBooks()
         {
-            return _unitOfWork.GenericRepository<Book>().GetAll();
+            return await _unitOfWork.GenericRepository<Book>().GetAll();
         }
 
         public async Task<Book> GetBook(int id)
@@ -55,8 +55,6 @@ namespace LibrarySystem.Services
                 BookFromDb.CategoryId = book.CategoryId;
                 BookFromDb.TotalCopies = book.TotalCopies;
             }
-                    
-
         }
     }
 }

@@ -1164,16 +1164,6 @@
         "runtime": {
           "bin/placeholder/LibrarySystem.Repositories.dll": {}
         }
-      },
-      "LibrarySystem.ViewModels/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/LibrarySystem.ViewModels.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LibrarySystem.ViewModels.dll": {}
-        }
       }
     }
   },
@@ -3198,18 +3188,12 @@
       "type": "project",
       "path": "../LibrarySystem.Repositories/LibrarySystem.Repositories.csproj",
       "msbuildProject": "../LibrarySystem.Repositories/LibrarySystem.Repositories.csproj"
-    },
-    "LibrarySystem.ViewModels/1.0.0": {
-      "type": "project",
-      "path": "../LibrarySystem.ViewModels/LibrarySystem.ViewModels.csproj",
-      "msbuildProject": "../LibrarySystem.ViewModels/LibrarySystem.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "LibrarySystem.Models >= 1.0.0",
       "LibrarySystem.Repositories >= 1.0.0",
-      "LibrarySystem.ViewModels >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.8",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.8"
     ]
@@ -3252,9 +3236,6 @@
             },
             "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj": {
               "projectPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.Repositories\\LibrarySystem.Repositories.csproj"
-            },
-            "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.ViewModels\\LibrarySystem.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\00 - Prototipos\\LibrarySystem\\LibrarySystem.ViewModels\\LibrarySystem.ViewModels.csproj"
             }
           }
         }

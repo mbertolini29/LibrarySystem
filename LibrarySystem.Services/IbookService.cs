@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace LibrarySystem.Services
 {
-    public interface IbookService
+    public interface IBookService
     {
         Task AddBook(Book book);
         Task UpdateBook(Book book);
-        void DeleteBook(int id);
+        Task DeleteBook(int id);
         Task<Book> GetBook(int id);
-        IEnumerable<Book> GetAllBooks();
+        Task<IEnumerable<Book>> GetAllBooks();
     }
 }

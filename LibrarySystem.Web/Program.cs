@@ -6,9 +6,10 @@ using LibrarySystem.Models;
 using LibrarySystem.Utilities;
 using LibrarySystem.Utilities.Seeding;
 using LibrarySystem.Repositories.UnitOfWorkPattern;
+using AutoMapper;
+using LibrarySystem.ViewModels.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
-
 var connectionString = builder.Configuration.GetConnectionString("LibrarySystemWebContextConnection") ?? throw new InvalidOperationException("Connection string 'LibrarySystemWebContextConnection' not found.");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("Data Source=MAURIX\\SQLEXPRESS;Initial Catalog=LibrarySystemDb;User Id=sa;Password=departamento;TrustServerCertificate=True;"));
@@ -19,7 +20,12 @@ builder.Services.AddScoped<IDbInitializer, DbInitializer>();
 builder.Services.AddScoped<IEmailSender, EmailSender>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-
+var config = new AutoMapper.MapperConfiguration(cfg =>
+{
+    cfg.AddProfile(new MapperProfile());
+});
+var mapper = config.CreateMapper();
+builder.Services.AddSingleton(mapper);
 
 //builder.Services.AddScoped<IUnitOfWork, UnitOfWork();
 

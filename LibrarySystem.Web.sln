@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.Models", "Lib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.Repositories", "LibrarySystem.Repositories\LibrarySystem.Repositories.csproj", "{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.ViewModels", "LibrarySystem.ViewModels\LibrarySystem.ViewModels.csproj", "{A0573AA2-6151-49B5-BCAF-4946AEE94408}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.Services", "LibrarySystem.Services\LibrarySystem.Services.csproj", "{8D2C04E5-34AB-415C-8877-500607F76857}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.Utilities", "LibrarySystem.Utilities\LibrarySystem.Utilities.csproj", "{C7941436-CBC5-4B4D-8253-502042B0F841}"
@@ -33,10 +31,6 @@ Global
 		{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CC4BBDD-5494-447E-A01B-25F3C59C9F09}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0573AA2-6151-49B5-BCAF-4946AEE94408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0573AA2-6151-49B5-BCAF-4946AEE94408}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0573AA2-6151-49B5-BCAF-4946AEE94408}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0573AA2-6151-49B5-BCAF-4946AEE94408}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8D2C04E5-34AB-415C-8877-500607F76857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8D2C04E5-34AB-415C-8877-500607F76857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2C04E5-34AB-415C-8877-500607F76857}.Release|Any CPU.ActiveCfg = Release|Any CPU
